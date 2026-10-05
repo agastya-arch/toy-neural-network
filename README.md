@@ -1,4 +1,4 @@
-###### Toy Neural Network From Scratch
+# Toy Neural Network From Scratch
 
 A small neural network implemented from scratch using **NumPy**, without using a deep-learning framework.
 
