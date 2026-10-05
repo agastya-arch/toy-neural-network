@@ -60,5 +60,5 @@ In particular, I wanted to understand how **forward propagation, loss, backpropa
 
 ## A potential for future developments in the project
 
-I would make this project better by adding a labelled dataset, which would help me in getting the testing and training accuracy of this model.
-I would also like to make this same project, but use Sigmoid or Tanh functions in it instead of ReLU activation functions, to see how much variation and difference i observe in the model's predictions.
+* I would make this project better by adding a labelled dataset, which would help me in getting the testing and training accuracy of this model.
+* I would also like to make this same project, but use Sigmoid or Tanh functions in it instead of ReLU activation function, to see how much variation and difference i observe in the model's predictions.
